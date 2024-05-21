@@ -1,0 +1,4 @@
+
+†python:S1192"iDefine a constant instead of duplicating this literal 'å¯†ç åº”ä¸º5~18ä½æ•°å­—æˆ–å­—æ¯ç»„æˆ' 3 times.(„ìÍùùÿÿÿÿ
+„python:S1192"lDefine a constant instead of duplicating this literal 'æ—§å¯†ç åº”ä¸º5~18ä½æ•°å­—æˆ–å­—æ¯ç»„æˆ' 3 times.(ƒ‹¤‘
+rpython:S1192"UDefine a constant instead of duplicating this literal r'^[0-9a-zA-Z]{5,18}$' 8 times.(„ìÍùùÿÿÿÿ
